@@ -1,0 +1,35 @@
+
+
+.beregner{
+    background-color: #fff;
+    max-width:200px;
+    margin: auto;
+    margin-top: 20rem;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 5px 10px 15px 0px #ddd;
+}
+.beregner input{
+    width: 100%;
+    border: 1px gray solid;
+    border-radius: 5px;
+}
+.beregner #rate{
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+}
+.beregner button{
+    display: block;
+    margin: 1rem auto;
+    background-color: #0000ff;
+    width: 100%;
+    border-radius: 5px;
+    color: #fff;
+}
+.beregner h4{
+    margin-bottom: 0.3rem;
+}
+.beregner p{
+    margin-top: 0;
+}
